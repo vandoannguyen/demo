@@ -1,1 +1,6 @@
 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.callmbresult",
+               "sha256_cert_fingerprints": [" 06:D9:2F:A1:9D:FB:15:45:F5:F6:49:E5:D2:2C:2A:C3:52:DD:7D:CC:DD:53:CD:57:D1:CD:98:62:A1:39:5D:28"] }
+}]
